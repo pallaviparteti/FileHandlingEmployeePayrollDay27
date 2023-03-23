@@ -9,7 +9,7 @@ import java.util.List;
 
 public class EmployeePayrollFileIOService {
 
-	public static String PAYROLL_FILE_NAME = "C:\\Users\\Dell\\Desktop\\SumOfOddNumbers\\" +
+	public static String PAYROLL_FILE_NAME = "C:\\Users\\Dell\\Documents\\Desktop\\employee_payroll" +
 			"JavaFileHandliingDay27/src/com/file.txt";
 
 	public void writeData(List<ToAddEmployeePayrollInfo> employeePayrollList) {
